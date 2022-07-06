@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'OpenSans-ExtraBold';
+    src: url('OpenSans-ExtraBold.woff') format('woff'),
+         url('OpenSans-ExtraBold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+  }
